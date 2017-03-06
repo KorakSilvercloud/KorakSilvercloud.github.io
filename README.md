@@ -1,2 +1,3 @@
 # KorakSilvercloud.github.io
-This is a test to see how this site builds.
+This is currently just a playground as I work on learning
+the behavior of the Jekyll system.
